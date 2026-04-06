@@ -15,7 +15,7 @@ This is a sample `.noisette` file for implementing Timecode cue playback using t
 
   * LTC
   * MTC
-  * RTP-MIDI
+  * RTP-MIDI / USB-MIDI
   * Art-Timecode
 
 * It also supports **Video Frame Sync (Genlock)**, making it suitable for video playback systems.
