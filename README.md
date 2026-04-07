@@ -1,4 +1,4 @@
-# Chataigne-Timecode-Play-MMC-Sample.noisette
+# Chataigne-Timecode Play-MMC Command.noisette
 > Timecode cue playback sample using DOREMiDi MTC-30 with Chataigne
 
 ---
