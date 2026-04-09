@@ -1,5 +1,7 @@
 # Chataigne - Timecode Play - MMC Command - Sample.noisette
-> Timecode cue playback sample using DOREMiDi MTC-30 with Chataigne
+> 
+**It has been updated to use the MIDI MMC Command module that integrates this method**  
+**https://github.com/Yoons-B1/Chataigne-MIDI-MMC-Command-Module**  
 
 ---
 
