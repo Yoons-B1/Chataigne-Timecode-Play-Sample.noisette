@@ -1,7 +1,7 @@
 # Chataigne - Timecode Play - MMC Command - Sample.noisette
 > 
 > **It has been updated to use the MIDI MMC Command module that integrates this method**  
-> **https://github.com/Yoons-B1/Chataigne-MIDI-MMC-Command-Module**  
+> **https://github.com/yoons100/Chataigne-MIDI-MMC-Command-Module**  
 
 ---
 
